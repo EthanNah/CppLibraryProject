@@ -13,7 +13,7 @@
 File I/O
 
 -----
-### Code Detail as an example
+### Code Detail as an example   
 * Searching in Data 
 ```swift
 ifstream MyFile("DataFile/BookData.txt");
@@ -25,7 +25,9 @@ ifstream MyFile("DataFile/BookData.txt");
                 inputbookname << line << endl;
                 count++;
             }
-```
+```   
+![Searching](image/UserFunction/search.gif)   
+
 * Update Data
 ```swift
 while (!Myfile.eof()) {
@@ -47,7 +49,8 @@ while (!Myfile.eof()) {
                 }
 
             }
-```
+```   
+![UpDate](image/Admin/Update.gif)   
             
 --------------
 
