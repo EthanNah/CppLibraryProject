@@ -1,6 +1,8 @@
 # Library Management Project
 ## About Project
-#### Mini Projects written in C++
+ * As a library management program, users can search and rent books, 
+   and managers can add books, manage the number of books, and change members' passwords.   
+ * Projects written in C++
 -----------
 ### Main Functions
 1. Search
