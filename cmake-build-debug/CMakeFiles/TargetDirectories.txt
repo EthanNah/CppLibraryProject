@@ -1,0 +1,3 @@
+C:/Users/Kilroyd/CLionProjects/CppLibrary_Project_ver2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Kilroyd/CLionProjects/CppLibrary_Project_ver2/cmake-build-debug/CMakeFiles/CppLibrary_Project_ver2.dir
+C:/Users/Kilroyd/CLionProjects/CppLibrary_Project_ver2/cmake-build-debug/CMakeFiles/edit_cache.dir

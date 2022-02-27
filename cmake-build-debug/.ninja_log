@@ -1,0 +1,11 @@
+# ninja log v5
+11	1520	6676015598333709	CMakeFiles/CppLibrary_Project_ver2.dir/Login.cpp.obj	ac096e793be31107
+4	1747	6676015600581128	CMakeFiles/CppLibrary_Project_ver2.dir/main.cpp.obj	c3d3a33873dbba22
+1747	1852	6676015601616912	CppLibrary_Project_ver2.exe	615c82dd3259c880
+14	212	6676015585250022	CMakeFiles/CppLibrary_Project_ver2.dir/Librarian.cpp.obj	6e38abe27314a4dc
+8	1577	6676015598890674	CMakeFiles/CppLibrary_Project_ver2.dir/User.cpp.obj	41149f81b5636e07
+11	67	6670111275200367	CMakeFiles/CppLibrary_Project_ver2.dir/Window.cpp.obj	55b2cbd99e54c09c
+12	1687	6676018425829735	CMakeFiles/CppLibrary_Project_ver2.dir/Login.cpp.obj	ac096e793be31107
+9	1734	6676018426308527	CMakeFiles/CppLibrary_Project_ver2.dir/User.cpp.obj	41149f81b5636e07
+4	1929	6676018428243271	CMakeFiles/CppLibrary_Project_ver2.dir/main.cpp.obj	c3d3a33873dbba22
+1929	2031	6676018429249726	CppLibrary_Project_ver2.exe	615c82dd3259c880
