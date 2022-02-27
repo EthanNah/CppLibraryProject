@@ -50,7 +50,7 @@ while (!Myfile.eof()) {
 
             }
 ```   
-![UpDate](image/Admin/Update.gif)   
+![UpDate](image/Admin/Login/Update.gif)   
             
 --------------
 
